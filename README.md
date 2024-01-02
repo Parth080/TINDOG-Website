@@ -1,1 +1,1 @@
-Tindog is basically a web application trying to replicate tinder but for dogs. It incorporates basics of HTML5, CSS and Bootstrap. The application is made adaptive and responsive using bootstrap grid layout and variuos bootstrap concepts like carousel, card, navbar, dropdown and many more are used in an attempt to make the website responsive for various screen sizes including desktop, tablet and mobile phones. 
+
